@@ -7,7 +7,7 @@ It uses 3 API's to recall information.
 You type in a search, (ie.. Song, movie, band name..)
 It searches for it!
 
-Have fun! You just need to enter a command: 
+Have fun! You just need to enter a command followed by the movie, song, or concert you want to go to: 
 * movie-this 
 * concert-this 
 * spotify-this 
