@@ -8,7 +8,7 @@ You type in a search, (ie.. Song, movie, band name..)
 It searches for it!
 
 Have fun! You just need to enter a command: 
-* Item 1 movie-this 
-* Item 1 concert-this 
-* Item 1 spotify-this 
-* Item 1 do-what-it-says
+* movie-this 
+* concert-this 
+* spotify-this 
+* do-what-it-says
